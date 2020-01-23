@@ -13,3 +13,10 @@ The objectif is testing primality for unsigned integers
 ![Special case of 1](https://github.com/bondif/primality-test/blob/master/screenshots/one_case.jpg "Special case of 1")    
 * Input validation: Error message in case of wrong input   
 ![Input validation](https://github.com/bondif/primality-test/blob/master/screenshots/error_case.jpg "Input validation")    
+
+# Contributors
+<a href="https://github.com/bondif/primality-test/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=bondif/primality-test" />
+</a>
+
+Made with [contributors-img](https://contributors-img.firebaseapp.com).
